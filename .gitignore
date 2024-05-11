@@ -267,3 +267,4 @@ pyrightconfig.json
 
 .env.prod
 .env.dev
+systemd/
